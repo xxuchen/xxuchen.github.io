@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/xxuchen</id>
+    <id>https://xxuchen.github.io</id>
     <title>xuchen</title>
-    <updated>2021-12-02T02:04:26.357Z</updated>
+    <updated>2021-12-02T03:01:19.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/xxuchen"/>
-    <link rel="self" href="https://github.com/xxuchen/atom.xml"/>
+    <link rel="alternate" href="https://xxuchen.github.io"/>
+    <link rel="self" href="https://xxuchen.github.io/atom.xml"/>
     <subtitle>不知道描述该写点什么。</subtitle>
-    <logo>https://github.com/xxuchen/images/avatar.png</logo>
-    <icon>https://github.com/xxuchen/favicon.ico</icon>
+    <logo>https://xxuchen.github.io/images/avatar.png</logo>
+    <icon>https://xxuchen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, xuchen</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/xxuchen/post/hello-gridea/</id>
-        <link href="https://github.com/xxuchen/post/hello-gridea/">
+        <id>https://xxuchen.github.io/post/hello-gridea/</id>
+        <link href="https://xxuchen.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
