@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xxuchen.github.io</id>
-    <title>技术笔记</title>
-    <updated>2021-12-24T08:03:52.682Z</updated>
+    <title>许辰的技术笔记</title>
+    <updated>2021-12-24T08:05:01.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xxuchen.github.io"/>
     <link rel="self" href="https://xxuchen.github.io/atom.xml"/>
     <subtitle>不知道描述该写点什么。</subtitle>
     <logo>https://xxuchen.github.io/images/avatar.png</logo>
     <icon>https://xxuchen.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 技术笔记</rights>
+    <rights>All rights reserved 2021, 许辰的技术笔记</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xxuchen.github.io/post/hello-gridea/</id>
