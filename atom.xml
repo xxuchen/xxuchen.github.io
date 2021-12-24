@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xxuchen.github.io</id>
-    <title>许辰的技术笔记</title>
-    <updated>2021-12-24T08:15:11.338Z</updated>
+    <title>技术与技巧</title>
+    <updated>2021-12-24T10:11:49.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xxuchen.github.io"/>
     <link rel="self" href="https://xxuchen.github.io/atom.xml"/>
-    <subtitle>不知道描述该写点什么。</subtitle>
+    <subtitle>少研究别人，多提升自己，不是成功来的慢，是你努力的不够狠， 努力只能及格，拼命才能优秀。</subtitle>
     <logo>https://xxuchen.github.io/images/avatar.png</logo>
     <icon>https://xxuchen.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 许辰的技术笔记</rights>
+    <rights>All rights reserved 2021, 技术与技巧</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xxuchen.github.io/post/hello-gridea/</id>
