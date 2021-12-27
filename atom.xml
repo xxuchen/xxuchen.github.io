@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xuchen.tech</id>
+    <id>https://xuchen.netlify.app</id>
     <title>技术与技巧</title>
-    <updated>2021-12-27T13:21:01.657Z</updated>
+    <updated>2021-12-27T13:23:11.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xuchen.tech"/>
-    <link rel="self" href="https://xuchen.tech/atom.xml"/>
+    <link rel="alternate" href="https://xuchen.netlify.app"/>
+    <link rel="self" href="https://xuchen.netlify.app/atom.xml"/>
     <subtitle>少研究别人，多提升自己，不是成功来的慢，是你努力的不够狠， 努力只能及格，拼命才能优秀。</subtitle>
-    <logo>https://xuchen.tech/images/avatar.png</logo>
-    <icon>https://xuchen.tech/favicon.ico</icon>
+    <logo>https://xuchen.netlify.app/images/avatar.png</logo>
+    <icon>https://xuchen.netlify.app/favicon.ico</icon>
     <rights>All rights reserved 2021, 技术与技巧</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xuchen.tech/hello-gridea/</id>
-        <link href="https://xuchen.tech/hello-gridea/">
+        <id>https://xuchen.netlify.app/hello-gridea/</id>
+        <link href="https://xuchen.netlify.app/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
